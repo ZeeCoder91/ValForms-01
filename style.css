@@ -77,7 +77,7 @@ body {
     visibility: visible;
 }
 
-.form-control.error i.fa-exclamation-circle {
+.form-control.error i.fa-exclamation-circle { 
     color: #e74c3c;
     visibility: visible;
 }
